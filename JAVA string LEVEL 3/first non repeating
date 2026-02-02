@@ -27,3 +27,4 @@ public class FirstNonRepeating {
             System.out.println("First non-repeating character: " + c);
     }
 }
+
